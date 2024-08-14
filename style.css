@@ -1,0 +1,26 @@
+body{
+    font-family: sans-serif;
+    color: #fbf1c7;
+    background: #282828;
+    text-align: center;
+}
+button{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background: #458588;
+    color: #fbf1c7;
+    border: 2px solid #458588;
+    border-radius: 12px;
+    display: inline-block;
+    transition-duration: 0.4s;
+    font-size: 20px;
+}
+button:hover{
+    background: #83a598;
+    border: 2px solid #83a598;
+}
+img {
+    max-width: 100%;
+    height: auto;
+  }
